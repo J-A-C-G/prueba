@@ -16,7 +16,9 @@ public class JavaCUPGitHub {
      */
     public static void main(String[] args) {
         
-        System.out.println("Hello Git");    
+        System.out.println("Buenos Dias"); 
+        System.out.println("Buenos Tardes");
+        System.out.println("Buenas Noches");
     }
     
     
